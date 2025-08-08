@@ -1,6 +1,6 @@
 # 📚 AnimeList Java App
 
-Aplikasi berbasis Java yang menampilkan daftar anime dengan informasi detailnya, mirip konsep **Wikipedia** atau **MyAnimeList**, tetapi dalam bentuk aplikasi mandiri.
+Aplikasi berbasis Java yang menampilkan daftar anime dengan informasi detail, mirip konsep **Wikipedia** atau **MyAnimeList**, tetapi dalam bentuk aplikasi mandiri.
 
 ---
 
@@ -35,7 +35,7 @@ Contoh tampilan console:
 1. Pastikan sudah terinstall **Java JDK 17** atau versi terbaru.
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/zakkutsu/college_assignment/programming exam/wikipediabookanime
+   git clone https://github.com/zakkutsu/wikipediabookanime
 3. Masuk ke folder proyek:
     ```bash
     cd animelist-java
